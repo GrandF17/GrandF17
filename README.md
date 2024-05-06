@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrandF17)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GrandF17)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GrandF17's github activity graph](https://activity-graph.herokuapp.com/graph?username=GrandF17)](https://github.com/GrandF17/github-readme-activity-graph)
 <!--
 **GrandF17/GrandF17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
