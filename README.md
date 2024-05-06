@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/[ICON SLUG].svg" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrandF17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api?username=GrandF17)](https://github.com/anuraghazra/github-readme-stats)
