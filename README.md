@@ -2,6 +2,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GrandF17)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GrandF17)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ПкфтвА17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GrandF17/GrandF17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
