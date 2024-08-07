@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrandF17&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrandF17&layout=donut-vertical&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api?username=GrandF17)](https://github.com/anuraghazra/github-readme-stats)
 
